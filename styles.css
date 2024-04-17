@@ -98,6 +98,7 @@
     border-radius: 4px; /* Set border radius */
     background: #313131; /* Set background color */
     color: #b0b0b0; /* Set text color */
+    cursor: pointer;
 }
 
 /* Style the button hover state */
